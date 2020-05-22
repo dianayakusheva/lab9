@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lab9_button:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab9_button_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lab9_button/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lab9_button" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
